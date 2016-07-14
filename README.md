@@ -19,7 +19,7 @@ YII2 RABC (Role Base Access Control)图形化管理系统. 轻松管理您的用
 
 如果您未安装 [composer](http://getcomposer.org/download/)，请先安装.
 
-然后在命令行执行:
+然后再命令行执行:
 
 ```
 php composer.phar require thinkwill/yii2-admin "~1.0"
